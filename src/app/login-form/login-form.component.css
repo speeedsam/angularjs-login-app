@@ -1,0 +1,10 @@
+.login-area{
+    display: block;
+    padding: 100px 0;
+    background: #eeeeee;
+}
+.loginform{
+    margin:0 auto;
+    background: rgba(34,71,255,0.55);
+    padding: 30px;
+}
